@@ -1,11 +1,11 @@
-##Запуск сервера :
+##Run Server :
 
 php artisan serve
 
-##Настройки .env :
+##Settings .env :
 
-Пример настроек .env есть в файле .env.example
+Example of settings .env is in file .env.example
 
-##Применение миграций :
+##Migration usage :
 
 php artisan migrate
